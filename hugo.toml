@@ -1,0 +1,4 @@
+baseURL = "https://hitoptics.com/"
+languageCode = "en-us"
+title = "HitOptics Blog"
+theme = "ananke"
